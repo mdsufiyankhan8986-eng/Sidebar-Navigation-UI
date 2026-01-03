@@ -1,6 +1,6 @@
 # Sidebar Navigation UI – HTML & CSS
 
-A clean and modern sidebar navigation user interface** built using pure HTML and CSS.  
+A clean and modern sidebar navigation user interface built using pure HTML and CSS.  
 This mini project focuses on UI layout, styling, and visual structure without using JavaScript or backend technologies.
 
 # Live Demo
