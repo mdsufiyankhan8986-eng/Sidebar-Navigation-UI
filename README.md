@@ -4,7 +4,7 @@ A clean and modern sidebar navigation user interface** built using pure HTML and
 This mini project focuses on UI layout, styling, and visual structure without using JavaScript or backend technologies.
 
 # Live Demo
- https://mdsufiyankhan8986-eng.github.io/Sidebar-Navigation-UI/
+
  
 # Project Overview
 This project demonstrates a left-side navigation panel commonly used in dashboards and modern web applications.  
